@@ -13,7 +13,7 @@ import java.sql.DriverManager;
  */
 public class TestKoneksi {
     
-    
+    // tess koneksi
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/db_inventaris_labb" + "?sslMode=DISABLED&allowPublicKeyRetrieval=true";
         String user = "root";
